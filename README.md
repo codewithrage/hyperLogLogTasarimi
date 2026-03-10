@@ -41,5 +41,3 @@ Projede optimum denge için p = 14 seçilmiştir. Bu seçim ve test sonuçları:
 Kova sayısını artırmak hata payını düşürse de bellek maliyetini doğrusal olarak artırmaktadır. Yapılan teorik analizler p=14 değerinin hafıza ve isabet oranı açısından en ideal ödünleşimi (trade-off) sunduğunu göstermektedir.
 
 ## 🔗 İlgili Bağlantılar
-- **Sunum ve Analiz Dokümanı (PDF):** [Buraya PDF dosyanızın repo içindeki linkini ekleyin]
-- **Proje Anlatım Videosu:** [Buraya Unlisted YouTube linkini ekleyin]
